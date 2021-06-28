@@ -1,0 +1,79 @@
+
+
+#cmain {
+	width: 1000px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+
+.cpic {
+	display: block;
+	margin:  0 auto;
+}
+
+.cblock {
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+  box-shadow: 4px 4px #efefef;
+  margin-bottom: 16px;
+  text-align: center;
+  font-size: 1.5em;
+  padding-bottom: 0.5em;
+}
+
+.grass {
+	background-color: limegreen;
+}
+
+.fire {
+	background-color: orangered;
+}
+
+.water {
+	background-color: cornflowerblue;
+}
+
+.bug {
+	background-color: greenyellow;
+}
+
+.flying{
+	background-color: aqua;
+}
+
+.normal{
+	background-color: gainsboro;
+}
+
+.dark{
+	background-color: indigo;
+	color: white;
+}
+
+.poison{
+	background-color: purple;
+	color: white;
+}
+
+.electric{
+	background-color: yellow;
+}
+
+.ground{
+	background-color: DarkKhaki;
+}
+
+.ice{
+	background-color: deepskyblue;
+}
+
+.fairy{
+	background-color: magenta;
+}
+
+img {
+	width: 250px;
+	height: auto;
+}

@@ -1,0 +1,89 @@
+body {
+	background-color:rgba(192,192,192,0.1);
+}
+
+#cmain {
+	width: 1000px;
+	/*
+	border:  2px solid lightblue;
+	border-radius: 10px;
+	*/
+	margin: 0 auto;
+}
+
+h2 {
+	margin-left: 30px;
+	font-size: 2.5em;
+}
+
+.cpic {
+	display: block;
+	margin:  0 auto;
+}
+
+table {
+	padding: 0 20px;
+	width: 100%;
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+
+table:first-of-type {
+	margin-bottom: 15px;
+}
+
+th, td {
+	border: 1px solid black;
+}
+
+th {
+	background-color: #86af49;
+	height: 25px;
+}
+
+.ctype {
+	padding-left: 10px;
+	padding-right: 10px;
+	display: inline-block;
+}
+
+.Ticon {
+	width: 40px;
+	vertical-align: middle;
+}
+
+p {
+	margin-left: 20px;
+	font-size: 1.5em;
+	font-weight:  bold;
+}
+
+.evoline {
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+
+ul {
+	margin-left: 20px;
+	line-height: 1.5;
+}
+
+/* extra */
+.Tsep {
+	padding-left: 10px;
+	margin: 10px 0;
+	font-weight: bold;
+	font-style:  italic;
+}
+
+.statblock {
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+  box-shadow: 4px 4px #efefef;
+  margin-bottom: 16px;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+  width: 30%;
+  margin-left: 20px;
+}
