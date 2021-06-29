@@ -47,6 +47,11 @@ th {
 	display: inline-block;
 }
 
+.megaevo {
+	width: 250px;
+	height: auto;
+}
+
 .Ticon {
 	width: 40px;
 	vertical-align: middle;
