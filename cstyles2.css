@@ -85,6 +85,10 @@
 	background-color: deeppink;
 }
 
+.rock{
+	background-color: dimgray;
+}
+
 p {
 	margin-left: 20px;
 	font-size: 1.5em;
