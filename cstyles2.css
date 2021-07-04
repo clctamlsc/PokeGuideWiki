@@ -13,6 +13,10 @@
 	margin:  0 auto;
 }
 
+.cpic:hover {
+	width: 260px;
+}
+
 .cblock {
   border: 1px solid lightgrey;
   border-radius: 20px;
@@ -21,7 +25,11 @@
   text-align: center;
   font-size: 1.5em;
   padding-bottom: 0.5em;
+  width: 270px;
+  height: 300px;
+
 }
+
 
 .grass {
 	background-color: limegreen;
