@@ -97,6 +97,11 @@
 	background-color: dimgray;
 }
 
+.ghost{
+	background-color: black;
+	color: white;
+}
+
 p {
 	margin-left: 20px;
 	font-size: 1.5em;
