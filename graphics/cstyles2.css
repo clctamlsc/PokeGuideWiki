@@ -1,0 +1,109 @@
+
+
+#cmain {
+	width: 1000px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+
+.cpic {
+	display: block;
+	margin:  0 auto;
+}
+
+.cpic:hover {
+	width: 260px;
+}
+
+.cblock {
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+  box-shadow: 4px 4px #efefef;
+  margin-bottom: 16px;
+  text-align: center;
+  font-size: 1.5em;
+  padding-bottom: 0.5em;
+  width: 270px;
+  height: 300px;
+
+}
+
+
+.grass {
+	background-color: limegreen;
+}
+
+.fire {
+	background-color: orangered;
+}
+
+.water {
+	background-color: cornflowerblue;
+}
+
+.bug {
+	background-color: greenyellow;
+}
+
+.flying{
+	background-color: aqua;
+}
+
+.normal{
+	background-color: gainsboro;
+}
+
+.dark{
+	background-color: indigo;
+	color: white;
+}
+
+.poison{
+	background-color: purple;
+	color: white;
+}
+
+.electric{
+	background-color: yellow;
+}
+
+.ground{
+	background-color: DarkKhaki;
+}
+
+.ice{
+	background-color: deepskyblue;
+}
+
+.fairy{
+	background-color: magenta;
+}
+
+.steel{
+	background-color: slategray;
+}
+
+.fighting{
+	background-color: indianred;
+}
+
+.psychic{
+	background-color: deeppink;
+}
+
+.rock{
+	background-color: dimgray;
+}
+
+p {
+	margin-left: 20px;
+	font-size: 1.5em;
+	font-weight:  bold;
+}
+
+img {
+	width: 250px;
+	height: auto;
+}
