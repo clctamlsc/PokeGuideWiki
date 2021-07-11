@@ -3,11 +3,16 @@
 #cmain {
 	width: 1000px;
 	margin: 0 auto;
+}
+
+.group {
 	display: flex;
 	justify-content: space-evenly;
 	flex-wrap: wrap;
 }
-
+h1 {
+	margin-left:  3.5rem;
+}
 .cpic {
 	display: block;
 	margin:  0 auto;
@@ -115,4 +120,8 @@ p {
 img {
 	width: 250px;
 	height: auto;
+}
+
+.Off {
+	display: none;
 }
