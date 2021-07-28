@@ -125,3 +125,17 @@ img {
 .Off {
 	display: none;
 }
+
+.bttn {
+	border: 1px solid limegreen;
+	padding: 2px 4px;
+}
+
+.bttn:hover {
+	background-color: lightcyan;
+}
+
+main > h1 {
+	display: inline-block;
+	margin-right: 6px;
+}
