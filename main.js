@@ -18,9 +18,12 @@ function main() {
     		block = document.querySelector('#gp2');
     	} else if (id == 'blk3') {
 			block = document.querySelector('#gp3');
-    	} else {
+    	} else if (id == 'blk4') {
     		block = document.querySelector('#gp4');
+    	} else {
+    		block = document.querySelector('#gp5')
     	}
+    	
     	if (status == 'Show') {
     		block.classList.toggle('Off');
     		event.target.innerHTML = 'Hide';
