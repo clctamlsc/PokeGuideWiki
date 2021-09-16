@@ -20,9 +20,12 @@ function main() {
 			block = document.querySelector('#gp3');
     	} else if (id == 'blk4') {
     		block = document.querySelector('#gp4');
-    	} else {
+    	} else if (id == 'blk5'){
     		block = document.querySelector('#gp5')
+    	} else if (id == 'blk6'){
+    		block = document.querySelector('#gp6')
     	}
+
     	
     	if (status == 'Show') {
     		block.classList.toggle('Off');
